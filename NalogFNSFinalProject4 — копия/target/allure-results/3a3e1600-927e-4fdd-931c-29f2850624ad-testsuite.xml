@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1589889461427" stop="1589889500327" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : NalogFNSFinalProject4</name>
+    <title>Default Suite : NalogFNSFinalProject4</title>
+    <test-cases>
+        <test-case start="1589889481159" stop="1589889500099" status="passed">
+            <name>findDolgINNTest</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="NalogFNSFinalProject4"/>
+                <label name="testClass" value="tests.FirstTest"/>
+                <label name="testMethod" value="findDolgINNTest"/>
+                <label name="host" value="MacBook-Pro-Viktoria.local"/>
+                <label name="thread" value="22202@MacBook-Pro-Viktoria.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

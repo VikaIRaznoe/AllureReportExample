@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Налоги ФНС",
+    "children" : [ {
+      "name" : "Проверка кнопки Найти в главном окне приложения",
+      "children" : [ {
+        "name" : "findDolgINNTest",
+        "uid" : "7a2969842b0a715",
+        "parentUid" : "126440924cda790d5f785724b11e637b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589889491197,
+          "stop" : 1589889500101,
+          "duration" : 8904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "126440924cda790d5f785724b11e637b"
+    } ],
+    "uid" : "ab0a3b16db1c3d51a49212d506328d3c"
+  } ]
+}

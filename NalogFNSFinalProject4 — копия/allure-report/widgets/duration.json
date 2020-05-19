@@ -1,0 +1,11 @@
+[ {
+  "uid" : "7a2969842b0a715",
+  "name" : "findDolgINNTest",
+  "time" : {
+    "start" : 1589889491197,
+    "stop" : 1589889500101,
+    "duration" : 8904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

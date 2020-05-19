@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro-Viktoria.local",
+    "children" : [ {
+      "name" : "22202@MacBook-Pro-Viktoria.local.main(1)",
+      "children" : [ {
+        "name" : "findDolgINNTest",
+        "uid" : "7a2969842b0a715",
+        "parentUid" : "24315629754d8f6e93296f14f12fea24",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589889491197,
+          "stop" : 1589889500101,
+          "duration" : 8904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "24315629754d8f6e93296f14f12fea24"
+    } ],
+    "uid" : "216f544ce3ec8fb342fa592298c1e1d8"
+  } ]
+}

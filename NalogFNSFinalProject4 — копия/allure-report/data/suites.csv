@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 19 14:58:11 MSK 2020","Tue May 19 14:58:20 MSK 2020","8904","Default Suite","NalogFNSFinalProject4","tests.FirstTest","tests.FirstTest","findDolgINNTest","findDolgINNTest","Итоговая работа"
